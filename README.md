@@ -17,15 +17,6 @@ Step 5: Get the details of the server
 Step 6: print the results.
 Step 7: Stop the program.
 ```
-## Algorithm For TRACEROUTE :
-```
-1. Start the program.
-2. Get the frame size from the user.
-3. To create the frame based on the user request.
-4. To send frames to server from the client side.
-5. If your frames reach the server, it will send ACK signal to client otherwise it will send NACK signal to client.
-6. Stop the program
-```
 ## Procedure: To do this EXPERIMENT- follows these steps:
 <BR>
 In this EXPERIMENT- students have to understand basic networking commands e.g cpdump, netstat, ifconfig, nslookup ,traceroute and also Capture ping and traceroute PDUs using a network protocol analyzer 
@@ -81,14 +72,6 @@ while True:
 
 ## Output
 ![4 1 cn](https://github.com/user-attachments/assets/1fef96a3-c733-4e89-8660-7edfd448b9c7)
-
-## TRACEROUTE
-## Command :
-```
-tracert www.facebook.com
-```
-## Output :
-![4 2 cn](https://github.com/user-attachments/assets/4a44a8a8-36a1-4d31-82c2-b3293fa8c3a9)
 
 ## Result
 Thus Execution of Network commands Performed 
